@@ -1,18 +1,18 @@
 {
-"spider":"https://raw.githubusercontent.com/bravo227090/TVCover/main/TVCover.jar",
+"spider":"https://raw.githubusercontent.com/bravo227090/TVcover/main/TVcover.jar",
 "wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
 "lives":[{"name":"live","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 
 "sites": [
   {
-   "key": "drpy_豆瓣",
+   "key": "dr_豆瓣",
    "name": "🔍豆瓣┃推荐片",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/bravo227090/TVCover/main/js/lib/drpy2.min.js",
+   "api": "https://raw.githubusercontent.com/bravo227090/TVcover/main/js/lib/drpy2.min.js",
    "searchable": 2,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://raw.githubusercontent.com/bravo227090/TVCover/main/js/豆瓣.js"
+   "ext": "https://raw.githubusercontent.com/bravo227090/TVcover/main/js/豆瓣.js"
   },
   {
    "key": "csp_Paper",
