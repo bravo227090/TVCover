@@ -19,6 +19,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
+   "changeable": 0,
    "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt",
    "jar": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
   },
@@ -30,6 +31,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
+   "changeable": 0,
    "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt",
    "jar": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
   },
@@ -41,6 +43,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
+   "changeable": 0,
    "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt$$$yingshi$$$abcd1234",
    "jar": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
   },
@@ -52,6 +55,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
+   "changeable": 0,
    "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt",
    "jar": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
   },
@@ -63,6 +67,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
+   "changeable": 0,
    "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt",
    "jar": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
   },
@@ -95,7 +100,8 @@
    "api": "csp_If101",
    "searchable": 1,
    "quickSearch": 1,
-   "filterable": 1
+   "filterable": 1,
+   "changeable": 0
   },
   {
    "key": "csp_trj",
@@ -104,7 +110,8 @@
    "api": "csp_Tangrenjie",
    "searchable": 1,
    "quickSearch": 1,
-   "filterable": 1
+   "filterable": 1,
+   "changeable": 0
   },
   {
    "key": "csp_Nbys",
@@ -113,7 +120,8 @@
    "api": "csp_NiNi",
    "searchable": 1,
    "quickSearch": 1,
-   "filterable": 1
+   "filterable": 1,
+   "changeable": 0
   }
 ],
 
