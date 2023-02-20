@@ -205,8 +205,7 @@
  {"category":4,"name":"mediacodec-auto-rotate","value":"0"},
  {"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},
  {"category":4,"name":"mediacodec-hevc","value":"0"},
- {"category":1,"name":"dns_cache_timeout","value":"600000000"}
- ]},
+ {"category":1,"name":"dns_cache_timeout","value":"600000000"}]},
 
  {"group":"硬解码","options": [
  {"category":4,"name":"opensles","value":"0"},
@@ -247,8 +246,7 @@
  {"host":"www.agemys.cc","rule":["cdn-tos","obj/tos-cn"]},
  {"host":"https://www.fun4k.com","rule":["https://hd.ijycnd.com/play","index.m3u8"]},
  {"host": "www.007ts.me","rule": ["hls.pchj.net",".m3u8"]},
- {"host":"zjmiao.com","rule":["play.videomiao.vip/API.php","time=","key=","path="]}
- ],
+ {"host":"zjmiao.com","rule":["play.videomiao.vip/API.php","time=","key=","path="]}],
 
  "ads": [
   "mimg.0c1q0l.cn",
