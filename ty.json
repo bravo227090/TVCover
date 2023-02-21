@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.githubusercontent.com/bravo227090/TVcover/main/TVcover.jar",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/bravo227090/TVcover/main/TVcover.jar",
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "lives": [
   {
@@ -23,8 +23,8 @@
    "key": "dr_豆瓣",
    "name": "🔍豆瓣┃推荐片",
    "type": 3,
-   "api": "https://raw.githubusercontent.com/bravo227090/TVcover/main/js/lib/drpy2.min.js",
-   "ext": "https://raw.githubusercontent.com/bravo227090/TVcover/main/js/豆瓣.js"
+   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/bravo227090/TVcover/main/js/lib/drpy2.min.js",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/bravo227090/TVcover/main/js/豆瓣.js"
   },
   {
    "key": "csp_Paper",
@@ -90,7 +90,7 @@
    "filterable": 0,
    "changeable": 0,
    "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt",
-   "jar": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
   },
   {
    "key": "csp_BuLei",
