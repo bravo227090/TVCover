@@ -102,6 +102,15 @@
    "changeable": 0
   },
   {
+   "key": "csp_360",
+   "name": "📺360┃SP",
+   "type": 3,
+   "api": "csp_SP360",
+   "searchable": 1,
+   "filterable": 1,
+   "changeable": 0
+  },
+  {
    "key": "csp_QQ",
    "name": "🐧腾讯┃SP",
    "type": 3,
