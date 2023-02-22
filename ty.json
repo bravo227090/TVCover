@@ -207,69 +207,6 @@
   }
 ],
 
-  "parses": [{
-    "name": "解析聚合",
-    "type": 3,
-    "url": "Demo"
-  },
-  {
-    "name": "Json并发",
-    "type": 2,
-    "url": "Parallel"
-  },
-  {
-    "name": "Json轮询",
-    "type": 2,
-    "url": "Sequence"
-  },
-  {
-  "name": "解析1",
-  "type": 0,
-  "url": "http://www.miaoys.cc/vip/?url=",
-  "ext": {
-    "flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
-    "User-Agent": "Mozilla/5.0"
-  }
- },
-  {
-  "name": "解析2",
-  "type": 0,
-  "url": "http://www.pandown.pro/app/tkys/tkysjx.php?url=",
-  "ext": {
-    "flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
-    "User-Agent": "Mozilla/5.0"
-  }
- },
-  {
-  "name": "解析3",
-  "type": 0,
-  "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art/analysis.php?v=",
-  "ext": {
-    "flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
-    "User-Agent": "Mozilla/5.0"
-  }
- },           
-  {
-  "name": "解析4",
-  "type": 0,
-  "url": "https://jx.ccabc.cc/byg/?url=",
-  "ext": {
-    "flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
-    "User-Agent": "Mozilla/5.0"
-  }
- },
-  {
-  "name": "解析5",
-  "type": 0,
-  "url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url=",
-  "ext": {
-    "flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
-    "User-Agent": "Mozilla/5.0"
-  }
- }
-],
- "flags": ["youku", "qq", "iqiyi", "qiyi", "letv", "sohu", "tudou", "pptv", "mgtv", "wasu", "bilibili", "renrenmi", "优酷", "芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "CL4K", "xfyun", "wuduzy"],
-
  "ijk": [
  {"group":"软解码","options": [
  {"category":4,"name":"opensles","value":"0"},
