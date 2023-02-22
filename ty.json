@@ -113,15 +113,6 @@
    "ext": "https://www.bulei.cc"
   },
   {
-   "key": "csp_If101",
-   "name": "🧱If101┃SP",
-   "type": 3,
-   "api": "csp_If101",
-   "searchable": 1,
-   "filterable": 1,
-   "changeable": 0
-  },
-  {
    "key": "csp_trj",
    "name": "🧱唐人街┃SP",
    "type": 3,
