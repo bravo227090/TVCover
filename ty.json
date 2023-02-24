@@ -27,6 +27,17 @@
    "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/bravo227090/TVcover/main/js/豆瓣.js"
   },
   {
+   "key": "csp_GitCafe",
+   "name": "📜刷新token",
+   "type": 3,
+   "api": "csp_Gitcafe",
+   "searchable": 0,
+   "filterable": 0,
+   "changeable": 0,
+   "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt",
+   "jar": "http://maoyingshi.cc/tvbox/云星日记/jar/ali刷新.jar"
+  },
+  {
    "key": "csp_Paper",
    "name": "📜纸条┃4K",
    "type": 3,
