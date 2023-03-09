@@ -39,7 +39,7 @@
   },
   {
    "key": "csp_YiSo",
-   "name": "😹易搜┃搜4K",
+   "name": "😹易搜┃4K",
    "type": 3,
    "api": "csp_YiSo",
    "searchable": 1,
@@ -50,7 +50,7 @@
   },
   {
    "key": "csp_Zhaozy",
-   "name": "🐺找资源┃搜4K",
+   "name": "🐺找资源┃4K",
    "type": 3,
    "api": "csp_Zhaozy",
    "searchable": 1,
@@ -61,7 +61,7 @@
   },
   {
    "key": "csp_PanSou",
-   "name": "🦊盘搜┃搜4K",
+   "name": "🦊盘搜┃4K",
    "type": 3,
    "api": "csp_PanSou",
    "searchable": 1,
@@ -72,7 +72,7 @@
   },
   {
    "key": "csp_UpYun",
-   "name": "😻Up搜┃搜4K",
+   "name": "😻Up搜┃4K",
    "type": 3,
    "api": "csp_UpYun",
    "searchable": 1,
